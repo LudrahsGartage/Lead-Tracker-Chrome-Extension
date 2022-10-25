@@ -1,4 +1,4 @@
-# Lead Tracker Google Chrome Extnesion
+# Lead Tracker Google Chrome Extension
 
 A google chrome extension that save and manage links/text in the local storage and displays them when needed in a simple and quick manner. This was made as a part of scrimba's interactive web development course.
 
